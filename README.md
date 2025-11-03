@@ -3,6 +3,8 @@
 # SweepCase
 A 3D printed MagSafe compatible case for the [sweep](https://github.com/davidphilipbarr/Sweep), designed to be compatible with the [Sweep2.x](https://github.com/davidphilipbarr/Sweep/tree/main/Sweep%20v2.2) and [Sweep Bling LP](https://github.com/davidphilipbarr/Sweep/tree/main/Sweep%20Bling%20LP) versions.
 
+![](https://github.com/SineScire/SweepCase/blob/b2d049ee2b39785eed98ef94b99577f802dfe92e/Images/Angle.png)
+
 ## Credits
-* The [team](https://github.com/davidphilipbarr/Sweep/tree/main/Sweep%20v2.2) that developed the sweep
+* [The people](https://github.com/davidphilipbarr/Sweep/tree/main/Sweep%20v2.2) that developed the sweep
 * [Keycapsss](https://keycapsss.com/) for providing the PCB and materials
