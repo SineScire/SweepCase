@@ -4,11 +4,11 @@
 
 | Part | Quantity | Description |
 | ---- | -------- | ----------- |
-| Top Housing | 2x | 3D printed mirrored part |
+| Plate | 2x | 3D printed mirrored part |
 | Bottom Housing | 2x | 3D printed mirrored part |
 | MCU Cover | 2x | 3D printed mirrored part |
-| Threaded Inserts | 16x | m2x4mm or m2x3mm brass heat inserts |
-| Socket Head Screws | 16x | m2x6 to m2x8mm socket head screws |
+| Threaded Inserts | 8x | m2x3mm or smaller brass heat inserts |
+| Screws | 8x | m2x5 screws |
 | Rubber Feet | 8x | 2mm thick rubber feet with a diameter of 15mm |
 | MagSafe Magnets | 2x | Optional 1mm thick circular magnet array for MagSafe mounting |
 | Soldering Iron | 1x | To insert the threaded inserts |
@@ -18,33 +18,39 @@
 * Supports are enabled
 * To print the right half the part must be mirrored in the slicing software
 
-| Top housing | Bottom housing | MCU Cover |
-| ----------- | -------------- | --------- |
-| ![](https://github.com/SineScire/SweepCase/blob/e913127c3c1571bdadb2a09f2c415560940dbc3a/Images/OrientationTop.png) | ![](https://github.com/SineScire/SweepCase/blob/e913127c3c1571bdadb2a09f2c415560940dbc3a/Images/OrientationBottom.png) | ![](https://github.com/SineScire/SweepCase/blob/e913127c3c1571bdadb2a09f2c415560940dbc3a/Images/OrientationCover.png) |
+| Plate | Bottom housing | MCU Cover |
+| ----- | -------------- | --------- |
+| ![](https://github.com/SineScire/SweepCase/blob/8c63851e69cb4c6648471c0d05dd5f0d4fa2af5e/Images/OrientationPlate.png) | ![](https://github.com/SineScire/SweepCase/blob/8c63851e69cb4c6648471c0d05dd5f0d4fa2af5e/Images/OrientationBottom.png) | ![](https://github.com/SineScire/SweepCase/blob/8c63851e69cb4c6648471c0d05dd5f0d4fa2af5e/Images/OrientationCover.png) |
 
 ## Assembling the case
 
-Use a soldering iron to insert the threaded inserts in the top housings and the MCU covers in the blue highlighted holes.
+Use a soldering iron to insert the threaded inserts in the bottom housings and the MCU covers in the blue highlighted holes.
 
-| Top housing | MCU Cover |
-| ----------- | --------- |
-| ![](https://github.com/SineScire/SweepCase/blob/e913127c3c1571bdadb2a09f2c415560940dbc3a/Images/InsertsTop.png) | ![](https://github.com/SineScire/SweepCase/blob/e913127c3c1571bdadb2a09f2c415560940dbc3a/Images/InsertsCover.png) |
+| Bottom housing | MCU Cover |
+| -------------- | --------- |
+| ![](https://github.com/SineScire/SweepCase/blob/8c63851e69cb4c6648471c0d05dd5f0d4fa2af5e/Images/InsertsBottom.png) | ![](https://github.com/SineScire/SweepCase/blob/8c63851e69cb4c6648471c0d05dd5f0d4fa2af5e/Images/InsertsCover.png) |
 
 Place the optional MagSafe ring inside the case
 
 | Placing the MagSafe ring |
 | ------------------------ |
-| ![](https://github.com/SineScire/SweepCase/blob/e5daaaa19dd56799a65ffbdfff4830d3c4bdd241/Images/StepMagSafe.png) |
+| ![](https://github.com/SineScire/SweepCase/blob/7633fd20a4dab89d2fed6172fcf7518caddb2f7c/Images/InsertMagsafe.png) |
 
-Assemble the case further by sandwiching the PCB between the top and bottom housing and fastening the two halves together with six socket head screws. The MCU cover can be fastened with two additional screws.
-Adhere the four rubber feet to the bottom of the case.
+Assemble the case further by placing the PCB in the bottom housing and snap-fitting the plate in place. The plate can be fastened with two screws to the bottom housing
 
-| Fastening the case together and adhering the feet |
-| ------------------------------------------------- |
-| ![](https://github.com/SineScire/SweepCase/blob/e5daaaa19dd56799a65ffbdfff4830d3c4bdd241/Images/StepFeet.png) |
+| Placing the PCB and fastening the plate |
+| --------------------------------------- |
+| ![](https://github.com/SineScire/SweepCase/blob/eed60fdfb057736395b454f2a8944bcdc9edb0d0/Images/InsertPCB.png) |
+
+Finally the MCU cover can be placed on the case. Make sure to insert the blue highlighted back corner first into the case, the cover can be fastened with two screws. Finish the case off by placing the rubber feet on the bottom of the case.
+
+
+| Placing the cover |
+| ----------------- |
+| ![](https://github.com/SineScire/SweepCase/blob/eed60fdfb057736395b454f2a8944bcdc9edb0d0/Images/InsertCover.png) |
 
 The keyboard can now be completed with your switches and keycaps of choice. Enjoy the case!
 
 | Completed case |
 | -------------- |
-| ![](https://github.com/SineScire/SweepCase/blob/e913127c3c1571bdadb2a09f2c415560940dbc3a/Images/Angle.png) |
+| ![](https://github.com/SineScire/SweepCase/blob/7633fd20a4dab89d2fed6172fcf7518caddb2f7c/Images/Angle.png) |
